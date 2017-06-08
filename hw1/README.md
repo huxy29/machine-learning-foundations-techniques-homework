@@ -1,4 +1,4 @@
-quiz:
+quiz: https://www.zybuluo.com/huxy/note/769078
 
 PLA.py: implemention of PLA and pocket algorithm
 
